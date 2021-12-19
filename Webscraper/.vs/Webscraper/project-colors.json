@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a5d6b13-7da9-4df7-b2a6-686fe242d6d7": {
+      "ProjectGuid": "7a5d6b13-7da9-4df7-b2a6-686fe242d6d7",
+      "DisplayName": "Webscraper",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

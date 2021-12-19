@@ -1,0 +1,16 @@
+C:\School\C#\Webscraper\Webscraper\bin\Debug\Webscraper.exe.config
+C:\School\C#\Webscraper\Webscraper\bin\Debug\Webscraper.exe
+C:\School\C#\Webscraper\Webscraper\bin\Debug\Webscraper.pdb
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.csproj.AssemblyReference.cache
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.csproj.SuggestedBindingRedirects.cache
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.webScraper.resources
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.Properties.Resources.resources
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.csproj.GenerateResource.cache
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.csproj.CoreCompileInputs.cache
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.exe
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.pdb
+C:\School\C#\Webscraper\Webscraper\bin\Debug\WebDriver.dll
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.csproj.CopyComplete
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.Home.resources
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.yt.resources
+C:\School\C#\Webscraper\Webscraper\obj\Debug\Webscraper.Shop.resources
